@@ -1,9 +1,5 @@
+![Prueba](https://github.com/iFranM18/DIFM23/blob/main/icon/unam_fc_logos.png)
 
-<p align="center">
-  <img src = "unsm_fc.png" height = "200px"/>
-</p>
-
- 
 # Aplicación Picket Fence
 <div align="justify"> 
 Esta aplicación diseñada en App Designer de MATLAB para correr en Windows(86x_64). El programa fue diseñado con la intención de llevar a cabo el análisis de imágenes DICOM obtenidas de la prueba Picket Fence
